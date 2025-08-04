@@ -1,6 +1,6 @@
 # 📦 Supply Chain Shipping Delay Analysis
 
-This project analyzes global shipping data to identify patterns and causes of late deliveries using Python and Tableau.
+This project analyzes global shipping data to identify patterns and causes of late deliveries using Excel, Python and Tableau.
 
 ## 📌 Project Summary
 - **Total Orders:** 180,519
@@ -14,7 +14,6 @@ This project analyzes global shipping data to identify patterns and causes of la
 - **Excel** for quick verification
 
 ## 📁 Files Included
-- `excel_cleaned_data.xlsx` → Cleaned dataset used in Tableau
 - `Tableau_Dashboard.twbx` → Interactive dashboard file
 - `Dashboard Screenshot.png` → Preview of the main dashboard
 - `laporan.pdf` / `.pptx` → Full report or presentation of insights
