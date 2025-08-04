@@ -26,7 +26,7 @@ This project analyzes global shipping data to identify patterns and causes of la
 - Top 5 Countries with Highest Late Rates
 
 ## 📥 Dataset Source
-- [Kaggle Supply Chain Dataset](https://www.kaggle.com/...)
+- [Kaggle Supply Chain Dataset]([https://www.kaggle.com/...](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset))
 
 ## 📈 KPIs
 | Metric               | Value    |
